@@ -541,7 +541,7 @@ class Router:
 
 ## 👨‍💻 Autorzy
 
-- Maciej Nowak (44934)
+- Maciej Nowak
 - Maksymilian Wojtkowski
 - Jakub Tamioła
 
